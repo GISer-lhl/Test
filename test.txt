@@ -1,1 +1,2 @@
 I am a test.txt file;
+Now I add a new row;
